@@ -1,0 +1,6 @@
+node_modules
+.env
+feeds.json
+feeds copy.opml
+.pnpm-debug.log
+dist
